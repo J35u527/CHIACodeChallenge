@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UINavigationController-rS3-R9-Ivy~iphone.nib/objects-8.0+.nib">
+      <LogicalName xmlns="">MainStoryboard.storyboardc/UINavigationController-rS3-R9-Ivy~iphone.nib/objects-8.0+.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UINavigationController-rS3-R9-Ivy~iphone.nib/runtime.nib">
+      <LogicalName xmlns="">MainStoryboard.storyboardc/UINavigationController-rS3-R9-Ivy~iphone.nib/runtime.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr~iphone.nib/objects-8.0+.nib">
+      <LogicalName xmlns="">MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr~iphone.nib/objects-8.0+.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr~iphone.nib/runtime.nib">
+      <LogicalName xmlns="">MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr~iphone.nib/runtime.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard~iphone.storyboardc/Info-8.0+.plist">
+      <LogicalName xmlns="">MainStoryboard~iphone.storyboardc/Info-8.0+.plist</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhoneSimulator/Debug/ibtool/MainStoryboard~iphone.storyboardc/Info.plist">
+      <LogicalName xmlns="">MainStoryboard~iphone.storyboardc/Info.plist</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+  </ItemGroup>
+</Project>
