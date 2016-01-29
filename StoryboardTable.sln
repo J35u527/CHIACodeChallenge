@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryboardTable", "StoryboardTable\StoryboardTable.csproj", "{18B5A016-BE3C-468A-8D88-7CD4F12E4A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaiOne.AppNet.Core", "..\..\Projects\ChaiOne.AppNet\ChaiOne.AppNet.Core\ChaiOne.AppNet.Core.csproj", "{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaiOne.AppNet.Core", "..\Documents\Git\CHIACodeChallenge\ChaiOne.AppNet\ChaiOne.AppNet.Core\ChaiOne.AppNet.Core.csproj", "{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

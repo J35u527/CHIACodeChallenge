@@ -30,3 +30,13 @@
 /Users/itexicodeveloperi/Downloads/StoryboardTable/StoryboardTable/bin/iPhoneSimulator/Debug/System.Net.Http.dll
 /Users/itexicodeveloperi/Downloads/StoryboardTable/StoryboardTable/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
 /Users/itexicodeveloperi/Downloads/StoryboardTable/StoryboardTable/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/StoryboardTable.exe.mdb
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/StoryboardTable.exe
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/obj/iPhoneSimulator/Debug/StoryboardTable.exe
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/obj/iPhoneSimulator/Debug/StoryboardTable.exe.mdb
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/ChaiOne.AppNet.Core.dll
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/ChaiOne.AppNet.Core.dll.mdb
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/System.Net.Http.dll
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/itexicodeveloperi/CHIACodeChallenge/StoryboardTable/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll

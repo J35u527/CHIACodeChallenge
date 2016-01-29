@@ -115,7 +115,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Projects\ChaiOne.AppNet\ChaiOne.AppNet.Core\ChaiOne.AppNet.Core.csproj">
+    <ProjectReference Include="..\..\Documents\Git\CHIACodeChallenge\ChaiOne.AppNet\ChaiOne.AppNet.Core\ChaiOne.AppNet.Core.csproj">
       <Project>{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}</Project>
       <Name>ChaiOne.AppNet.Core</Name>
     </ProjectReference>

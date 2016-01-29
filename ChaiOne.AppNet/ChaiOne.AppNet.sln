@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaiOne.AppNet", "ChaiOne.AppNet\ChaiOne.AppNet.csproj", "{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaiOne.AppNet.Core", "ChaiOne.AppNet.Core\ChaiOne.AppNet.Core.csproj", "{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Release|iPhone.Build.0 = Release|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0E48C441-AAA5-42E0-B2E5-71EA0A8F24B9}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Release|iPhone.Build.0 = Release|iPhone
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DAA00125-1C34-4A00-A6F9-4AC8F791AF2D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
